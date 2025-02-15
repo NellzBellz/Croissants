@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(240, 229, 135);
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+footer a{
+    margin: 10px;
+    color: red;
+}
+.code a{
+    color: blue;
+}
